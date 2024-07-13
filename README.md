@@ -1,4 +1,4 @@
-# curso-github
+# Repositorio curso-github
 primero repo creado en github
 
 
